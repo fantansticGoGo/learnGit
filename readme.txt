@@ -12,3 +12,5 @@ I want to learn the command which is "git diff".
 Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes if files.
+
+Creating a new branch is quick.
