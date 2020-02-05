@@ -14,3 +14,4 @@ Git tracks changes.
 Git tracks changes if files.
 
 Creating a new branch is quick and simple.
+add merge
